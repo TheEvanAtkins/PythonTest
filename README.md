@@ -1,2 +1,2 @@
 # PythonTest
-Peano Axiom Test
+Learning python
